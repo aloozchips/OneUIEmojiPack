@@ -1,5 +1,3 @@
-
-## Changelog
 v7.1
 - Updated codes, now installation is faster than before.
 - Added action.sh for better experience.
