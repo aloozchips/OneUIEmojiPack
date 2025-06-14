@@ -46,7 +46,7 @@ Emojis may break after reinstalling/updating apps or clearing app data. Tap the 
 ## Special Thanks to:
 - [zFont3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2&hl=en) dev || [@HtetzNaing](https://t.me/HtetzNaing)
 - [Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji) dev || [@Keinta15](https://github.com/Keinta15)
-- [killgmsfont](https://github.com/MrCarb0n/killgmsfont) || [@MrCarb0n](https://t.me/MrCarb0n)
+- [killgmsfont](https://github.com/MrCarb0n/killgmsfont) dev || [@MrCarb0n](https://t.me/MrCarb0n)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/aloozchips/OneUIEmojiPack/blob/main/LICENSE). Feel free to use, modify, and distribute it as per the license terms.
