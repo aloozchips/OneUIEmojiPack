@@ -1,9 +1,8 @@
-
 ## Changelog
 v7.1
 - Updated codes, now installation is faster than before.
 - Added action.sh for better experience.
-- Added support for Facebook Lite (Only DMs)
+- Added support for Facebook Lite (Only DM).
 - Some minor fixes and improvements.
 
 v7.0
