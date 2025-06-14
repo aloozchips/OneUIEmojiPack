@@ -1,5 +1,7 @@
 # OneUIEmojiPack
-OneUI Emoji Pack is an Android Root Module that systemlessly replaces the AOSP emoji pack with the OneUI emoji pack.
+<img src="https://github.com/aloozchips/OneUIEmojiPack/blob/main/banner.png" width="400" />
+
+**OneUI Emoji Pack is an Android Root Module that systemlessly replaces the AOSP emoji pack with the OneUI emoji pack.**
 
 Author: [𝙰𝚛𝚊𝚗𝚢𝚊](https://github.com/aloozchips)🧃 || [@aloozchips](https://t.me/aloozchips)
 
@@ -20,6 +22,10 @@ Author: [𝙰𝚛𝚊𝚗𝚢𝚊](https://github.com/aloozchips)🧃 || [@alooz
 - **Magisk Version**: Requires Magisk v24.0 or higher.
 - **KSU/KSU Next/Apatch**: Works for all versions.
 - **Android Version**: Tested on Android 11 and above. May work on older versions, try it.
+
+## Screenshot
+<img src="https://github.com/aloozchips/OneUIEmojiPack/blob/main/OneUI_Emoji_Screenshot.png" alt="OneUI Emojis" width="400" />  
+*How the OneUI emojis displays.*
 
 ## OTA Support
 This module supports over-the-air (OTA) updates using [update.json](https://github.com/aloozchips/OneUIEmojiPack/blob/main/update.json). Once installed, it will notify you of new releases when connected to the internet.
