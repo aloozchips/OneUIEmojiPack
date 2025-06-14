@@ -41,7 +41,7 @@ A: Yes, the module replaces the system emoji font, so it should work with any ke
 A: Yes, but conflicts may arise if another module modifies the system font. Disable conflicting modules if issues occur.
 
 ## Troubleshooting
-Emojis may break after reinstalling/updating apps or clearing app data. Tap the **Action** button(available fron v7.1) to apply emojis. If the issue persists, reboot your device.
+Emojis may break after reinstalling/updating apps or clearing app data. Tap the **Action** button (available fron v7.1) to apply emojis. If the issue persists, reboot your device.
 
 ## Special Thanks to:
 - [zFont3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2&hl=en) dev || [@HtetzNaing](https://t.me/HtetzNaing)
