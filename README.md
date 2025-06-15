@@ -9,8 +9,6 @@
 
 Author: [𝙰𝚛𝚊𝚗𝚢𝚊](https://github.com/aloozchips)🧃 || [@aloozchips](https://t.me/aloozchips)
 
-> This project is proudly MIT-licensed, so you're free to use and adapt it. Beyond the necessary inclusion of the license and copyright, if you customize anything, we'd be thrilled if you gave us a shout-out! Your recognition truly fuels our passion for maintaining and improving this work.
-
 ## Features
 - Systemlessly replaces AOSP emojis with OneUI emojis.
 - Broad compatibility with Magisk, KernelSU, and Apatch.
@@ -56,3 +54,7 @@ Emojis may break after reinstalling/updating apps or clearing app data. Tap the 
 
 ## License
 This project is licensed under the [MIT License](https://github.com/aloozchips/OneUIEmojiPack/blob/main/LICENSE). Feel free to use, modify, and distribute it as per the license terms.
+
+> Beyond the necessary inclusion of the license and copyright, if you customize anything, we'd be thrilled if you gave us a shout-out! Your recognition truly fuels our passion for maintaining and improving this work.
+
+
