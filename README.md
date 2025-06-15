@@ -29,7 +29,7 @@ Author: [𝙰𝚛𝚊𝚗𝚢𝚊](https://github.com/aloozchips)🧃 || [@alooz
 
 ## Screenshot
 <img src="https://github.com/aloozchips/OneUIEmojiPack/blob/main/OneUI_Emoji_Screenshot.png" alt="OneUI Emojis" width="400" />  
-*How the OneUI emojis displays.*
+*How the OneUI emoji pack displays.*
 
 ## OTA Support
 This module supports over-the-air (OTA) updates using [update.json](https://github.com/aloozchips/OneUIEmojiPack/blob/main/update.json). Once installed, it will notify you of new releases when connected to the internet.
