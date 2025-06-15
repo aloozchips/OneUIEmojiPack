@@ -1,5 +1,5 @@
 # OneUI Emoji Pack
-<img src="https://github.com/aloozchips/OneUIEmojiPack/blob/main/banner.png"
+<img src="https://github.com/aloozchips/OneUIEmojiPack/blob/main/banner.png">
 
 **OneUI Emoji Pack is an Android Root Module that systemlessly replaces the AOSP emoji pack with the OneUI emoji pack.**
 
