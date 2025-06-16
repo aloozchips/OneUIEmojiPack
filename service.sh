@@ -10,7 +10,7 @@ MAX_LOG_FILES=3 # Keep up to 3 archived logs
 MAX_LOG_AGE_DAYS=7 # Delete logs older than 7 days
 
 # Facebook app package names
-FACEBOOK_APPS="com.facebook.orca com.facebook.katana com.facebook.lite com.facebook.mlite"
+FACEBOOK_APPS="com.facebook.orca com.facebook.katana com.facebook.lite"
 
 # GMS font services
 GMS_FONT_PROVIDER="com.google.android.gms/com.google.android.gms.fonts.provider.FontsProvider"
