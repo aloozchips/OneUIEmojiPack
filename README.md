@@ -1,13 +1,13 @@
 # OneUI Emoji Pack
-<img src="https://github.com/aloozchips/OneUIEmojiPack/blob/main/banner.png">
+<img src="https://github.com/AloozChips/OneUIEmojiPack/blob/main/banner.png">
 
 **OneUI Emoji Pack is an Android Root Module that systemlessly replaces the AOSP emoji pack with the OneUI emoji pack.**
 
-[![Stars](https://img.shields.io/github/stars/aloozchips/OneUIEmojiPack?label=Stars&color=blue)](https://github.com/aloozchips/OneUIEmojiPack)
-[![Release](https://img.shields.io/github/v/release/aloozchips/OneUIEmojiPack?label=Release&logo=github)](https://github.com/aloozchips/OneUIEmojiPack/releases/latest)
-[![Download](https://img.shields.io/github/downloads/aloozchips/OneUIEmojiPack/total?label=Downloads&logo=github)](https://github.com/aloozchips/OneUIEmojiPack/releases/)
+[![Stars](https://img.shields.io/github/stars/AloozChips/OneUIEmojiPack?label=Stars&color=blue)](https://github.com/AloozChips/OneUIEmojiPack)
+[![Release](https://img.shields.io/github/v/release/AloozChips/OneUIEmojiPack?label=Release&logo=github)](https://github.com/AloozChips/OneUIEmojiPack/releases/latest)
+[![Download](https://img.shields.io/github/downloads/AloozChips/OneUIEmojiPack/total?label=Downloads&logo=github)](https://github.com/AloozChips/OneUIEmojiPack/releases/)
 
-Author: [𝙰𝚛𝚊𝚗𝚢𝚊](https://github.com/aloozchips)🧃 || [@aloozchips](https://t.me/aloozchips)
+Author: [𝙰𝚛𝚊𝚗𝚢𝚊](https://github.com/AloozChips)🧃 || [@AloozChips](https://t.me/AloozChips)
 
 ## Features
 - Systemlessly replaces AOSP emojis with OneUI emojis.
@@ -16,7 +16,7 @@ Author: [𝙰𝚛𝚊𝚗𝚢𝚊](https://github.com/aloozchips)🧃 || [@alooz
 - Works system-wide, including third-party keyboards.
 
 ## Installation
-1. Download the latest release from the [Releases page](https://github.com/aloozchips/OneUIEmojiPack/releases/latest).
+1. Download the latest release from the [Releases page](https://github.com/AloozChips/OneUIEmojiPack/releases/latest).
 2. Open your Android root managing app.
 3. Go to **Modules** → **Install from storage** and select the downloaded ZIP file.
 4. Reboot your device.
@@ -25,14 +25,14 @@ Author: [𝙰𝚛𝚊𝚗𝚢𝚊](https://github.com/aloozchips)🧃 || [@alooz
 ## Compatibility
 - **Magisk Version**: Requires Magisk v24.0 or higher.
 - **KSU/KSU Next/Apatch**: Works for all versions.
-- **Android Version**: Tested on Android 11 and above. May work on older versions, try it.
+- **Android Version**: Tested on Android 10 and above. May work on older versions, try it.
 
 ## Screenshot
-<img src="https://github.com/aloozchips/OneUIEmojiPack/blob/main/OneUI_Emoji_Screenshot.png" alt="OneUI Emojis" width="400" />  
+<img src="https://github.com/AloozChips/OneUIEmojiPack/blob/main/OneUI_Emoji_Screenshot.png" alt="OneUI Emojis" width="400" />  
 *How the OneUI emoji pack displays.*
 
 ## OTA Support
-This module supports over-the-air (OTA) updates using [update.json](https://github.com/aloozchips/OneUIEmojiPack/blob/main/update.json). Once installed, it will notify you of new releases when connected to the internet.
+This module supports over-the-air (OTA) updates using [update.json](https://github.com/AloozChips/OneUIEmojiPack/blob/main/update.json). Once installed, it will notify you of new releases when connected to the internet, in the modules section of your root managing app."
 
 ## FAQ
 ### Q: Why aren't the emojis changing after installation?
@@ -53,7 +53,7 @@ Emojis may break after reinstalling/updating apps or clearing app data. Tap the 
 - [killgmsfont](https://github.com/MrCarb0n/killgmsfont) dev || [@MrCarb0n](https://t.me/MrCarb0n)
 
 ## License
-This project is licensed under the [MIT License](https://github.com/aloozchips/OneUIEmojiPack/blob/main/LICENSE). Feel free to use, modify, and distribute it as per the license terms.
+This project is licensed under the [MIT License](https://github.com/AloozChips/OneUIEmojiPack/blob/main/LICENSE). Feel free to use, modify, and distribute it as per the license terms.
 
 > Beyond the necessary inclusion of the license and copyright, if you customize anything, we'd be thrilled if you gave us a shout-out! Your recognition truly fuels our passion for maintaining and improving this work.
 
