@@ -1,7 +1,7 @@
 # OneUI Emoji Pack
 <img src="https://github.com/AloozChips/OneUIEmojiPack/blob/main/banner.png">
 
-**OneUI Emoji Pack is an Android Root Module that systemlessly replaces the AOSP emoji pack with the OneUI emoji pack.**
+**OneUI Emoji Pack is an Android Root Module that systemlessly replaces the AOSP/system emoji pack with the OneUI emoji pack.**
 
 [![Stars](https://img.shields.io/github/stars/AloozChips/OneUIEmojiPack?label=Stars&color=blue)](https://github.com/AloozChips/OneUIEmojiPack)
 [![Release](https://img.shields.io/github/v/release/AloozChips/OneUIEmojiPack?label=Release&logo=github)](https://github.com/AloozChips/OneUIEmojiPack/releases/latest)
@@ -45,7 +45,7 @@ A: Yes, the module replaces the system emoji font, so it should work with any ke
 A: Yes, but conflicts may arise if another module modifies the system font. Disable conflicting modules if issues occur.
 
 ## Troubleshooting
-Emojis may break after reinstalling/updating apps or clearing app data. Tap the **Action** button (available fron v7.1) to apply emojis. If the issue persists, reboot your device.
+Emojis may break after reinstalling/updating apps or clearing app data. Tap the **Action** button (available from v7.1) to apply emojis. If the issue persists, reboot your device.
 
 ## Special Thanks to:
 - [zFont3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2&hl=en) dev || [@HtetzNaing](https://t.me/HtetzNaing)
